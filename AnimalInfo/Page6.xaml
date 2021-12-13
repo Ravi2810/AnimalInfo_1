@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnimalInfo.Page6">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Reptiles" FontSize="20" FontAttributes="Bold" TextColor="Black" TextType="Text" HorizontalOptions="Center" VerticalOptions="Start" />
+            <Button Text="Aldabra Giant Tortoise" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Violet" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Bearded Dragon" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Violet" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Caiman" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Violet" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Desert Tortoise" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Violet" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Frilled Lizard" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Violet" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Galapagos Tortoise" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Violet" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Indian Star Tortoise" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Violet" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="King Cobra" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Violet" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Leaf-Tailed Gecko" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Violet" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Monitor Lizard" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Violet" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Radiated Tortoise" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Violet" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Sand Lizard" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Violet" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

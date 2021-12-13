@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnimalInfo.Page4">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="FISH" FontSize="20" FontAttributes="Bold" TextColor="Black" TextType="Text" HorizontalOptions="Center" VerticalOptions="Start" />
+            <Button Text="Albacore Tuna" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Baiji" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Carp" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Discus" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Eel" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Fangtooth" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Gar" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Hagfish" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Immortal Jellyfish" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Jellyfish" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Loach" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Molly" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

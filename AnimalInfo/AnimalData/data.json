@@ -1,0 +1,592 @@
+[
+  {
+    "Name": "Adelie Penguin",
+    "Population": "Unknown",
+    "ScientificName": "Pygoscelis adeliae",
+    "Height": "40cm - 75cm (16in - 30in)",
+    "Weight": "3kg - 6kg (7lbs - 13lbs)",
+    "Length": "Unknown",
+    "Habitats": "Antarctic land and ocean",
+    "Origin": "Antarctica Ocean"
+  },
+  {
+    "Name": "African Clawed Frog",
+    "Population": "Abundant",
+    "ScientificName": "Xenopus laevis",
+    "Height": "Unknown",
+    "Weight": "25g - 220g (1oz - 8oz)",
+    "Length": "2.5cm - 12cm (1in - 5in)",
+    "Habitats": "Warm stagnant water with grassland",
+    "Origin": "eastern and southern Africa"
+  },
+  {
+    "Name": "Albacore Tuna",
+    "Population": "Unknown",
+    "ScientificName": "Thunnus alalunga",
+    "Height": "Unknown",
+    "Weight": "Up to 80lbs",
+    "Length": "1.2m (4ft)",
+    "Habitats": "Oceans",
+    "Origin": "Ocean"
+  },
+  {
+    "Name": "Aardvark",
+    "Population": "Unknown",
+    "ScientificName": "Orycteropus afer",
+    "Height": "Unknown",
+    "Weight": "60kg - 80kg (130lbs - 180lbs)",
+    "Length": "1.05m - 2.20m (3.4ft - 7.3ft)",
+    "Habitats": "Sandy and clay soil",
+    "Origin": "Africa"
+  },
+  {
+    "Name": "Aldabra Giant Tortoise",
+    "Population": "Unknown",
+    "ScientificName": "Geochelone gigantea",
+    "Height": "Unknown",
+    "Weight": "150kg - 250kg (330lbs - 550lbs)",
+    "Length": "90cm - 120cm (3ft - 4ft)",
+    "Habitats": "Grasslands and swamps",
+    "Origin": "Ocean"
+  },
+  {
+    "Name": "African Tree Toad",
+    "Population": "Unknown",
+    "ScientificName": "Nectophryne afra",
+    "Height": "Unknown",
+    "Weight": "2g - 5g (0.07oz - 0.18oz)",
+    "Length": "2.5cm - 3.8cm (1in - 1.5in)",
+    "Habitats": "Tropical lowland forest",
+    "Origin": "Central Africa"
+  },
+  {
+    "Name": "Bullfrog",
+    "Population": "Unknown",
+    "ScientificName": "Lithobates catesbeianus",
+    "Height": "Unknown",
+    "Weight": "300g - 500g (10.5oz - 17.6oz)",
+    "Length": "9cm - 15cm (3.5in - 6in)",
+    "Habitats": "Lakes, ponds, rivers and streams",
+    "Origin": "Central-America,North-America Ocean"
+  },
+  {
+    "Name": "Barn Owl",
+    "Population": "Unknown",
+    "ScientificName": "Tyto alba",
+    "Height": "25cm - 45cm (9.8in - 18in)",
+    "Weight": "300g - 550g (10oz - 19.4oz)",
+    "Length": "Unknown",
+    "Habitats": "Open plains and low-lying woodland",
+    "Origin": "Africa, Asia, Central-America, Eurasia, Europe"
+  },
+  {
+    "Name": "Burrowing Frog",
+    "Population": "Unknown",
+    "ScientificName": "Myobatrachidae",
+    "Height": "Unknown",
+    "Weight": "20g - 80g (0.7oz - 2.8oz)",
+    "Length": "6cm - 10cm (2.4in - 4in)",
+    "Habitats": "Forests, rivers and marshes",
+    "Origin": "Animalia"
+  },
+  {
+    "Name": "Baiji",
+    "Population": "Unknown",
+    "ScientificName": "Liptodes vexillifer",
+    "Height": "Unknown",
+    "Weight": "368 lbs",
+    "Length": "7.5-8.5 feet",
+    "Habitats": "River",
+    "Origin": "Critically Endangered"
+  },
+  {
+    "Name": "Baboon",
+    "Population": "Unknown",
+    "ScientificName": "Papio",
+    "Height": "50cm - 86cm (20in - 34in)",
+    "Weight": "14kg - 45kg (30lbs - 100lbs)",
+    "Length": "Unknown",
+    "Habitats": "Grassland, rocky desert and rainforest",
+    "Origin": "Africa, Asia"
+  },
+  {
+    "Name": "Bearded Dragon",
+    "Population": "Unknown",
+    "ScientificName": "Pogona Vitticeps",
+    "Height": "Unknown",
+    "Weight": "250g - 510g (9oz - 18oz)",
+    "Length": "50cm - 61cm (20in - 24in)",
+    "Habitats": "Arid forest and desert",
+    "Origin": "Oceania"
+  },
+  {
+    "Name": "Cassowary",
+    "Population": "Unknown",
+    "ScientificName": "Casuarius",
+    "Height": "1.5m - 2m (59in - 79in)",
+    "Weight": "25kg - 58.5kg (55lbs - 129lbs)",
+    "Length": "Unknown",
+    "Habitats": "Wet tropical forests",
+    "Origin": "Oceania"
+  },
+  {
+    "Name": "Common Frog",
+    "Population": "Unknown",
+    "ScientificName": "Rana temporaria",
+    "Height": "Unknown",
+    "Weight": "20g - 80g (0.7oz - 2.8oz)",
+    "Length": "6cm - 10cm (2.4in - 4in)",
+    "Habitats": "Forests, rivers and marshes",
+    "Origin": "Animalia"
+  },
+  {
+    "Name": "Carp",
+    "Population": "Unknown",
+    "ScientificName": "Unknown",
+    "Height": "Unknown",
+    "Weight": "Up to 49lbs",
+    "Length": "35cm (14in) on average",
+    "Habitats": "Lakes, rivers, and ponds",
+    "Origin": "Asia"
+  },
+  {
+    "Name": "Cairn Terrier",
+    "Population": "Unknown",
+    "ScientificName": "Canis Lupus",
+    "Height": "Unknown",
+    "Weight": "6kg (14lbs)",
+    "Length": "Unknown",
+    "Habitats": "Unknown",
+    "Origin": "Europe"
+  },
+  {
+    "Name": "Caiman",
+    "Population": "Unknown",
+    "ScientificName": "Caiman crocodilus, Melanosuchus niger, Caiman yacare, Paleosuchus palpebrosus, Paleosuchus trigonatus, Caiman latirostris",
+    "Height": "Unknown",
+    "Weight": "6kg - 300kg (13lbs - 660lbs)",
+    "Length": "1.5m - 6m (4.9ft - 19.7ft)",
+    "Habitats": "Rivers, lakes and swampland",
+    "Origin": "Central-America, South-America"
+  },
+  {
+    "Name": "Dodo",
+    "Population": "Unknown",
+    "ScientificName": "Raphus cucullatus",
+    "Height": "1m (3ft)",
+    "Weight": "20kg (44lbs)",
+    "Length": "Unknown",
+    "Habitats": "Tropical forest",
+    "Origin": "Unknown"
+  },
+  {
+    "Name": "Darwin's Frog",
+    "Population": "Unknown",
+    "ScientificName": "Rhinoderma Darwinii",
+    "Height": "Unknown",
+    "Weight": "2g - 5g (0.07oz - 0.17oz)",
+    "Length": "2.5cm - 3.5cm (0.9in - 1.4in)",
+    "Habitats": "Rodents, Snakes, Birds",
+    "Origin": "South-America"
+  },
+  {
+    "Name": "Discus",
+    "Population": "Unknown",
+    "ScientificName": "Unknown",
+    "Height": "Unknown",
+    "Weight": "150g – 250g",
+    "Length": "12.3cm – 15.2cm (4.8in – 6in)",
+    "Habitats": "Deep, slow-moving waters",
+    "Origin": "South-America"
+  },
+  {
+    "Name": "Dachsador",
+    "Population": "Unknown",
+    "ScientificName": "Canis lupus",
+    "Height": "Unknown",
+    "Weight": "40 lbs",
+    "Length": "Unknown",
+    "Habitats": "Unknown",
+    "Origin": "North-America"
+  },
+  {
+    "Name": "Desert Rain Frog",
+    "Population": "Unknown",
+    "ScientificName": "Breviceps macrops",
+    "Height": "Unknown",
+    "Weight": "Up to 0.4 oz",
+    "Length": "2–2.5 inches",
+    "Habitats": "Sand dunes",
+    "Origin": "Africa"
+  },
+  {
+    "Name": "Desert Tortoise",
+    "Population": "Unknown",
+    "ScientificName": "Gopherus Agassizii",
+    "Height": "Unknown",
+    "Weight": "4kg - 7kg (8lbs - 15lbs)",
+    "Length": "25cm - 36cm (10in - 14in)",
+    "Habitats": "Sandy desert plains and rocky hills",
+    "Origin": "Central-America, North-America"
+  },
+  {
+    "Name": "Eagle",
+    "Population": "Unknown",
+    "ScientificName": "Unknown",
+    "Height": "40cm - 100cm (15.7in - 39.3in)",
+    "Weight": "0.5kg - 7kg (1.1lbs - 15.4lbs)",
+    "Length": "Unknown",
+    "Habitats": "Open waters like rivers, lakes and coastal regions",
+    "Origin": "Africa, Asia, Central-America, Eurasia, Europe"
+  },
+  {
+    "Name": "Edible Frog",
+    "Population": "Unknown",
+    "ScientificName": "Pelophylax kl. esculentus",
+    "Height": "Unknown",
+    "Weight": "5g - 12g (0.17oz - 0.4oz)",
+    "Length": "5cm - 11cm (1.9in - 4.7in)",
+    "Habitats": "Woodland swamps and ponds",
+    "Origin": "Europe"
+  },
+  {
+    "Name": "Eel",
+    "Population": "Unknown",
+    "ScientificName": "Unknown",
+    "Height": "Unknown",
+    "Weight": "30g (1.1oz)-25kg (55lbs)",
+    "Length": "5cm (2.0in)-4m (13ft)",
+    "Habitats": "Ocean, river, freshwater",
+    "Origin": "Africa, Asia, Central-America, Eurasia, Europe, North-America, Ocean, Oceania, South-America"
+  },
+  {
+    "Name": "Eastern Gorilla",
+    "Population": "Unknown",
+    "ScientificName": "Gorilla berengei",
+    "Height": "1.5m - 1.8m (5ft - 6ft)",
+    "Weight": "204kg - 227kg (450lbs - 500lbs)",
+    "Length": "Unknown",
+    "Habitats": "Tropical forest and jungles in mountainous regions",
+    "Origin": "Africa"
+  },
+  {
+    "Name": "Frog",
+    "Population": "Unknown",
+    "ScientificName": "Unknown",
+    "Height": "Unknown",
+    "Weight": "2g - 3,000g (0.07oz - 128oz)",
+    "Length": "0.1cm - 30cm (0.39in - 12in)",
+    "Habitats": "Rainforest and swampland",
+    "Origin": "Africa,Asia,Central-America,Eurasia,Europe,North-America,Oceania\nSouth-America"
+  },
+  {
+    "Name": "Falcon",
+    "Population": "Unknown",
+    "ScientificName": "Unknown",
+    "Height": "22cm - 40cm (9in - 19in)",
+    "Weight": "0.7kg - 1.2kg (1.5lbs - 2.6lbs)",
+    "Length": "Unknown",
+    "Habitats": "High areas like mountains and cliffs",
+    "Origin": "Africa, Asia, Central-America, Eurasia, Europe"
+  },
+  {
+    "Name": "Fire-Bellied Toad",
+    "Population": "Unknown",
+    "ScientificName": "Bombina",
+    "Height": "Unknown",
+    "Weight": "20g - 80g (0.7oz - 2.8oz)",
+    "Length": "4cm - 7cm (1.5in - 3in)",
+    "Habitats": "Forests, jungle and marshes",
+    "Origin": "Asia,Europe"
+  },
+  {
+    "Name": "Fangtooth",
+    "Population": "Unknown",
+    "ScientificName": "Anoplogaster",
+    "Height": "Unknown",
+    "Weight": "75lbs",
+    "Length": "1.05m - 2.20m (3.4ft - 7.3ft)",
+    "Habitats": "Deep ocean",
+    "Origin": "Ocean"
+  },
+  {
+    "Name": "False Killer Whale",
+    "Population": "Unknown",
+    "ScientificName": "Pseudorca crassidens",
+    "Height": "Unknown",
+    "Weight": "Up to 4,000 pounds",
+    "Length": "Up to 20 feet",
+    "Habitats": "Coastal and deep ocean regions",
+    "Origin": "Ocean"
+  },
+  {
+    "Name": "Frilled Lizard",
+    "Population": "Unknown",
+    "ScientificName": "Chlamydosaurus kingii",
+    "Height": "Unknown",
+    "Weight": "0.5kg - 1kg (1.1lbs - 2.2lbs)",
+    "Length": "60cm - 100cm (24in - 40in)",
+    "Habitats": "Tropical forests and woodland",
+    "Origin": "Oceania"
+  },
+  {
+    "Name": "Galapagos Penguin",
+    "Population": "Unknown",
+    "ScientificName": "Spheniscus Mendiculus",
+    "Height": "48cm - 50cm (19in - 20in)",
+    "Weight": "2kg - 4kg (4.4lbs - 8.8lbs)",
+    "Length": "Unknown",
+    "Habitats": "Rocky Ocean Islands",
+    "Origin": "Ocean"
+  },
+  {
+    "Name": "Glass Frog",
+    "Population": "Unknown",
+    "ScientificName": "Unknown",
+    "Height": "1 to 2 cm (0.4 to 0.8 inches)",
+    "Weight": "5 to 14 grams (0.2 to 0.5 ounces)",
+    "Length": "3 to7.5 cm (1.2 to 3.0 inches)",
+    "Habitats": "Arboreal, tropical mountainous, high montane streams",
+    "Origin": "Central-America"
+  },
+  {
+    "Name": "Gar",
+    "Population": "Unknown",
+    "ScientificName": "Lepisosteidae",
+    "Height": "Unknown",
+    "Weight": "Up to 350 pounds",
+    "Length": "Up to 10 feet",
+    "Habitats": "Rivers, bayous, lakes, and estuaries",
+    "Origin": "Central-America, North-America"
+  },
+  {
+    "Name": "False Killer Whale",
+    "Population": "Unknown",
+    "ScientificName": "Pseudorca crassidens",
+    "Height": "Unknown",
+    "Weight": "Up to 4,000 pounds",
+    "Length": "Up to 20 feet",
+    "Habitats": "Coastal and deep ocean regions",
+    "Origin": "Ocean"
+  },
+  {
+    "Name": "Galapagos Tortoise",
+    "Population": "Unknown",
+    "ScientificName": "Chelonoidis nigra",
+    "Height": "Unknown",
+    "Weight": "200-300kg (441-661lbs)",
+    "Length": "Unknown",
+    "Habitats": "Volcanic lowlands and shrub land",
+    "Origin": "Ocean"
+  },
+  {
+    "Name": "Harpy Eagle",
+    "Population": "Unknown",
+    "ScientificName": "Harpia harpyja",
+    "Height": "Unknown",
+    "Weight": "5kg - 9kg (11lb - 20lbs)",
+    "Length": "89cm - 102cm (35in - 40in)",
+    "Habitats": "Lowland rainforests",
+    "Origin": "Central-America,South-America"
+  },
+  {
+    "Name": "Hagfish",
+    "Population": "Unknown",
+    "ScientificName": "Lepisosteidae",
+    "Height": "Unknown",
+    "Weight": "0.85-1.4 kg (1.8-3.1 lb)",
+    "Length": "0.85-1.4 kg (1.8-3.1 lb)",
+    "Habitats": "Every ocean",
+    "Origin": "Ocean"
+  },
+  {
+    "Name": "Hamster",
+    "Population": "Unknown",
+    "ScientificName": "Unknown",
+    "Height": "Unknown",
+    "Weight": "60kg - 80kg (130lbs - 180lbs)",
+    "Length": "Unknown",
+    "Habitats": "Dry deserts and sand dunes",
+    "Origin": "Africa, Asia, Central-America, Eurasia, Europe, North-America, Oceania, South-America"
+  },
+  {
+    "Name": "Immortal Jellyfish",
+    "Population": "Unknown",
+    "ScientificName": "Turritopsis dohrnii",
+    "Height": "Unknown",
+    "Weight": "Unknown",
+    "Length": "Unknown",
+    "Habitats": "Temperate to tropical saltwater worldwide",
+    "Origin": "Ocean"
+  },
+  {
+    "Name": "Ibis",
+    "Population": "Unknown",
+    "ScientificName": "Threskiornithidae",
+    "Height": "50cm - 65cm (19.7in - 25in)",
+    "Weight": "0.3kg - 2kg (0.6lbs - 4lbs)",
+    "Length": "Unknown",
+    "Habitats": "Marshes, wetlands and swamps",
+    "Origin": "Africa, Asia, Central-America, Eurasia, Oceania, South-America"
+  },
+  {
+    "Name": "Indian Star Tortoise",
+    "Population": "Unknown",
+    "ScientificName": "Geochelone elegans",
+    "Height": "Unknown",
+    "Weight": "1.3kg - 2.2kg (3lbs - 4.9lbs)",
+    "Length": "20cm - 30cm (8in - 12in)",
+    "Habitats": "Dry scrub forest",
+    "Origin": "Asia"
+  },
+  {
+    "Name": "Jellyfish",
+    "Population": "Unknown",
+    "ScientificName": "Unknown",
+    "Height": "Unknown",
+    "Weight": "20-400g (0.7-14oz)",
+    "Length": "0.5 inches to 16 inches, though they can grow to 7 feet",
+    "Habitats": "All oceans on planet earth",
+    "Origin": "Ocean"
+  },
+  {
+    "Name": "Jack Russell",
+    "Population": "Unknown",
+    "ScientificName": "Canis lupus",
+    "Height": "Unknown",
+    "Weight": "15 pounds",
+    "Length": "Unknown",
+    "Habitats": "Unknown",
+    "Origin": "Europe"
+  },
+  {
+    "Name": "Kakapo",
+    "Population": "Unknown",
+    "ScientificName": "Strigops habroptilus",
+    "Height": "Unknown",
+    "Weight": "2-4kg (4.5-9lbs)",
+    "Length": "Unknown",
+    "Habitats": "Areas of natural vegetation and dense jungle",
+    "Origin": "Oceania"
+  },
+  {
+    "Name": "Kangaroo",
+    "Population": "Unknown",
+    "ScientificName": "Unknown",
+    "Height": "Unknown",
+    "Weight": "18-95kg (40-200lbs)",
+    "Length": "Unknown",
+    "Habitats": "Dry forests, desert and grassland",
+    "Origin": "Oceania"
+  },
+  {
+    "Name": "King Cobra",
+    "Population": "Unknown",
+    "ScientificName": "Ophiophagus hannah",
+    "Height": "Unknown",
+    "Weight": "Unknown",
+    "Length": "Unknown",
+    "Habitats": "Forest, shrublands, wetlands",
+    "Origin": "Asia"
+  },
+  {
+    "Name": "Little Penguin",
+    "Population": "Unknown",
+    "ScientificName": "Eudyptula Minor",
+    "Height": "35cm - 50cm (14in - 20in)",
+    "Weight": "1kg - 3kg (2.2lbs - 6.6lbs)",
+    "Length": "Unknown",
+    "Habitats": "Rocky Antarctic Islands",
+    "Origin": "Ocean, Oceania"
+  },
+  {
+    "Name": "Loach",
+    "Population": "Unknown",
+    "ScientificName": "Unknown",
+    "Height": "Unknown",
+    "Weight": "0.3lbs-6.6lbs (0.1-3kg)",
+    "Length": "2in-20in (5cm-64cm)",
+    "Habitats": "Rivers",
+    "Origin": "Asia, Europe, North-America"
+  },
+  {
+    "Name": "Labmaraner",
+    "Population": "Unknown",
+    "ScientificName": "Canis lupus",
+    "Height": "Unknown",
+    "Weight": "90 lbs",
+    "Length": "Unknown",
+    "Habitats": "Unknown",
+    "Origin": "Europe"
+  },
+  {
+    "Name": "Leaf-Tailed Gecko",
+    "Population": "Unknown",
+    "ScientificName": "Unknown",
+    "Height": "Unknown",
+    "Weight": "10g - 30g (0.35oz - 1oz)",
+    "Length": "10cm - 30cm (4in - 12in)",
+    "Habitats": "Dense tropical jungle",
+    "Origin": "Africa"
+  },
+  {
+    "Name": "Macaroni Penguin",
+    "Population": "Unknown",
+    "ScientificName": "Eudyptes Chrysolophus",
+    "Height": "Unknown",
+    "Weight": "3.2-6.4kg (7-14lbs)",
+    "Length": "Unknown",
+    "Habitats": "Sea and ice-islands in Sub-Antarctica",
+    "Origin": "Antarctica,Ocean"
+  },
+  {
+    "Name": "Molly",
+    "Population": "Unknown",
+    "ScientificName": "Poecilia",
+    "Height": "Unknown",
+    "Weight": "Unknown",
+    "Length": "Unknown",
+    "Habitats": "Rivers in the Amazon Rainforest",
+    "Origin": "Central-America, South-America"
+  },
+  {
+    "Name": "Monitor Lizard",
+    "Population": "Unknown",
+    "ScientificName": "Orycteropus afer",
+    "Height": "Unknown",
+    "Weight": "1-166kg (2.2-366lbs)",
+    "Length": "Unknown",
+    "Habitats": "River banks and coastal forests",
+    "Origin": "Africa, Asia, Oceania"
+  },
+  {
+    "Name": "Nightingale",
+    "Population": "Unknown",
+    "ScientificName": "Unknown",
+    "Height": "Unknown",
+    "Weight": "15g - 22g (0.5oz - 0.7oz)",
+    "Length": "14cm - 16.5cm (5.5in - 6.5in)",
+    "Habitats": "Open forests and thickets",
+    "Origin": "Africa, Asia, Eurasia, Europe"
+  },
+  {
+    "Name": "Radiated Tortoise",
+    "Population": "Unknown",
+    "ScientificName": "Astrochelys radiata",
+    "Height": "Unknown",
+    "Weight": "2.2kg - 16kg (4.9lbs - 35lbs)",
+    "Length": "30cm - 41cm (12in - 16in)",
+    "Habitats": "Dry tropical forest",
+    "Origin": "Africa"
+  },
+  {
+    "Name": "Sand Lizard",
+    "Population": "Unknown",
+    "ScientificName": "Lacerta agilis",
+    "Height": "Unknown",
+    "Weight": "10g - 15g (0.35oz - 0.5oz)",
+    "Length": "13cm - 20cm (5in - 7.8in)",
+    "Habitats": "Grass and heathland",
+    "Origin": "Asia, Eurasia, Europe"
+  }
+]

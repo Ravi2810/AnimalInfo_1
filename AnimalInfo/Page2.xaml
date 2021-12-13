@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnimalInfo.Page2">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Amphibians" FontSize="20" FontAttributes="Bold" TextColor="Black" TextType="Text" HorizontalOptions="Center" VerticalOptions="Start" />
+            <Button Text="African Bullfrog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="African Clawed Frog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="African Tree Toad" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Bullfrog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Burrowing Frog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Common Frog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Darwin's Frog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Desert Rain Frog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Edible Frog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Fire-Bellied Toad" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Frog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Glass Frog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Goliath Frog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked_12" ></Button>
+            <Button Text="Gray Tree Frog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked_13" ></Button>
+            <Button Text="Green Frog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Green Tree Frog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked_15" ></Button>
+            <Button Text="Horned Frog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked_16" ></Button>
+            <Button Text="Marsh Frog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked_17" ></Button>
+            <Button Text="Monte Iberia Eleuth" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked_18" ></Button>
+            <Button Text="Newt" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Olm" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Poison Dart Frog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked_21" ></Button>
+            <Button Text="Pool Frog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked_22" ></Button>
+            <Button Text="Salamander" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked_23" ></Button>
+            <Button Text="Spadefoot Toad" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked_24" ></Button>
+            <Button Text="Tiger Salamander" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked_25" ></Button>
+            <Button Text="Tree Frog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked_26" ></Button>
+            <Button Text="Wood Frog" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked_27" ></Button>
+            <Button Text="Wyoming Toad" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Green" WidthRequest="400" Clicked="Button_Clicked_28" ></Button>
+           
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

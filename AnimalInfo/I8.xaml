@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnimalInfo.I8">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Others:- jellyfish, echinoderms, sponges, other worms etc." FontSize="25" FontAttributes="Bold" TextColor="White" Background="black" TextType="Text" HorizontalOptions="Center" VerticalOptions="Start" Padding="10, 20, 10, 20"/>
+            <Button Text="Go to home." FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="End" BackgroundColor="SkyBlue" WidthRequest="200" Clicked="Button_Clicked" Padding="10, 20, 10, 20" ></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnimalInfo.Page1">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Select any type" FontSize="20" FontAttributes="Bold" TextColor="Black" TextType="Text" HorizontalOptions="Center" VerticalOptions="Start" />
+            <Label Text="OR" FontSize="20" FontAttributes="Bold" TextColor="Red" TextType="Text" HorizontalOptions="Center" VerticalOptions="Start" />
+            <SearchBar Text="Search by animal name" HorizontalOptions="Center" VerticalOptions="Start"></SearchBar>
+            <Button Text="Amphibians" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Gray" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Birds" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="DarkGoldenrod" WidthRequest="400" Clicked="Button_Clicked_1" ></Button>
+            <Button Text="Fish" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="DeepSkyBlue" WidthRequest="400" Clicked="Button_Clicked_2" ></Button>
+            <Button Text="Mammals" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Maroon" WidthRequest="400" Clicked="Button_Clicked_3" ></Button>
+            <Button Text="Reptiles" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="PaleGreen" WidthRequest="400" Clicked="Button_Clicked_4" ></Button>
+            <Button Text="Invertebrates" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Yellow" WidthRequest="400" Clicked="Button_Clicked_5" ></Button>
+            <Image Source="https://assets.ltkcontent.com/images/5904/animal-kingdom_0066f46bde.jpg" WidthRequest="300" HeightRequest="200"></Image>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

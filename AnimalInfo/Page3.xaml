@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnimalInfo.Page3">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="BIRDS" FontSize="20" FontAttributes="Bold" TextColor="Black" TextType="Text" HorizontalOptions="Center" VerticalOptions="Start" />
+            <Button Text="Adelie Penguin" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Barn Owl" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Cassowary" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Dodo" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Eagle" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Falcon" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Galapagos Penguin" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Harpy Eagle" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Kakapo" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Little Penguin" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Macaroni Penguin" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+            <Button Text="Nightingale" HorizontalOptions="Start" VerticalOptions="Start" BackgroundColor="Purple" WidthRequest="400" Clicked="Button_Clicked" ></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnimalInfo.MainPage">
+
+    <StackLayout>
+
+        <Image Source="Icon.png" WidthRequest="100" HeightRequest="100"></Image>
+        <Label Text="Welcome" FontSize="Default" Padding="160,0,10, 0" />
+        <Label Text="What is your name?" FontAttributes="Bold" TextColor="Black" FontSize="Title" Padding="90,0,30,20"/>
+        <Label Text="Name" FontSize="16" TextColor="Red" TextType="Text" Padding="25,0,0,0"/>
+        <Label FontSize="16" Padding= "0,0,0,0">
+        </Label>
+        <Entry Text="Please enter your name." HorizontalOptions="Center" VerticalOptions="Start" WidthRequest="350" HeightRequest="45"/>
+        <Button HorizontalOptions="Center" VerticalOptions="End" Text="Let's go" Clicked="Button_Clicked" WidthRequest="350" HeightRequest="50" BackgroundColor="Pink"></Button>
+        <Image Source="https://static.vecteezy.com/system/resources/previews/000/081/412/original/square-flat-animal-icon-pack-vector.jpg" WidthRequest="300" HeightRequest="300"></Image>
+        
+    </StackLayout>
+
+    
+    
+    
+</ContentPage>

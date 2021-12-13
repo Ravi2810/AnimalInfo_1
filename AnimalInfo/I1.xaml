@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnimalInfo.I1">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/European_wasp_white_bg02.jpg/270px-European_wasp_white_bg02.jpg" WidthRequest="300" HeightRequest="200"></Image>
+            <Button Text="Go to home." FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="End" BackgroundColor="SkyBlue" WidthRequest="200" Clicked="Button_Clicked" Padding="10, 20, 10, 20" ></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
